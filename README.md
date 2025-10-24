@@ -20,9 +20,9 @@ The analysis uses Microsoft’s Financial Sample.xlsx — a demo dataset that in
 
 ## Process Summary
 
-⦁	Imported the Financial Sample.xlsx file into Power BI.
-⦁	In Power Query, corrected data types, removed columns that repeated date information, filtered for 2014, and renamed “United States” to “USA” for clearer visuals.
-⦁	Built measures for Total Sales, Total Profit, Profit Margin (%), Average Discount (%), and basic time calculations.
+⦁	Imported the Financial Sample.xlsx file into Power BI.  
+⦁	In Power Query, corrected data types, removed columns that repeated date information, filtered for 2014, and renamed “United States” to “USA” for clearer visuals.  
+⦁	Built measures for Total Sales, Total Profit, Profit Margin (%), Average Discount (%), and basic time calculations.  
 ⦁	Designed a one-page dashboard with KPI cards, bar and line charts, and a scatter plot showing how discounts relate to profit margins.
 
 ## Key Insights
