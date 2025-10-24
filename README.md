@@ -34,7 +34,7 @@ The analysis uses Microsoft’s Financial Sample.xlsx — a demo dataset that in
 
 ## Limitations
 
-⦁	The dataset ends before December 2014.
+⦁	The dataset ends before December 2014.  
 ⦁	No earlier years are available, so year-on-year comparisons can’t be made.
 
 ## How to View
@@ -43,6 +43,6 @@ The project files are available in the GitHub folder financial_performance_dashb
 
 ## Files Included
 
-⦁	Financial_Performance.pbix
-⦁	Financial_Performance.jpeg
+⦁	Financial_Performance.pbix  
+⦁	Financial_Performance.jpeg  
 ⦁	README.md
