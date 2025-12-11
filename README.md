@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project analyses company sales and profit data from 2014 to find which countries and products performed best. It also reviews how sales changed across the year and how product discounts impact profitability.
+Analysed company sales and profit data to discover which countries and products performed strongest, how sales changed across the year and how product discounts impact profitability.
 
 ## Business Task / Objective
 
@@ -12,9 +12,9 @@ This project analyses company sales and profit data from 2014 to find which coun
 
 ## Dataset
 
-The analysis uses Microsoft’s Financial Sample.xlsx — a demo dataset that includes information on dates, countries, products, segments, sales, discounts, and profit.
+Microsoft’s Financial Sample.xlsx - a demo dataset that includes information on dates, countries, products, segments, sales, discounts, and profit.
 
-## Tools Used
+## Tool Used
 
 ⦁	Power BI — used for cleaning, modelling, creating DAX measures, and building the dashboard.
 
